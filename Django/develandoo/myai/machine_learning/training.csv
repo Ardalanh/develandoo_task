@@ -1,0 +1,1199 @@
+,industry,countryCode,organizationTypeCode,organizationSizeCode,ageRange,gender,scoring
+0,Information Technology & Services,ES,P,B,31-40,Male,Win
+1,Internet,DE,P,B,31-40,Male,Win
+2,Information Technology & Services,GB,P,B,18-30,Male,Win
+3,Hospitality,ES,O,C,41-50,Male,Loss
+4,Accounting,US,S,F,41-50,Male,Loss
+6,Management Consulting,ES,D,A,18-30,Female,Loss
+7,Internet,ES,P,B,18-30,Male,Win
+8,Financial Services,US,P,A,41-50,Male,Win
+9,Computer Games,GB,P,A,31-40,Male,Win
+11,Internet,US,C,F,18-30,Male,Win
+13,Airlines/Aviation,GB,P,A,31-40,Male,Loss
+14,Financial Services,US,P,B,31-40,Male,Win
+20,Computer Software,GB,P,C,31-40,Male,Win
+21,Internet,PT,S,B,18-30,Male,Win
+22,Computer & Network Security,US,P,D,18-30,Male,Loss
+23,Marketing & Advertising,US,P,B,18-30,Female,Win
+24,Staffing & Recruiting,US,P,A,18-30,Female,Win
+25,Retail,AU,P,A,31-40,Male,Win
+26,Information Technology & Services,DE,P,C,31-40,Male,Win
+29,Hospital & Health Care,US,P,B,41-50,Male,Win
+31,Oil & Energy,NL,C,H,41-50,Male,Win
+32,Information Technology & Services,BE,D,A,31-40,Male,Loss
+33,Education Management,FR,D,D,18-30,Female,Loss
+34,Marketing & Advertising,US,P,B,51-60,Male,Win
+35,Information Technology & Services,ES,P,C,41-50,Male,Win
+36,Information Technology & Services,US,P,B,18-30,Male,Win
+37,Information Technology & Services,CH,O,A,31-40,Male,Win
+39,Information Technology & Services,NL,S,A,31-40,Male,Win
+40,International Trade & Development,HU,G,C,18-30,Male,Loss
+42,Furniture,CH,C,C,31-40,Male,Loss
+43,Information Technology & Services,LU,P,B,18-30,Male,Win
+44,Higher Education,ES,D,B,31-40,Male,Win
+45,Financial Services,GB,P,B,31-40,Male,Win
+46,Information Technology & Services,DE,O,C,31-40,Male,Win
+47,Computer Software,IT,P,A,18-30,Male,Win
+48,Marketing & Advertising,US,P,C,31-40,Male,Win
+50,Food & Beverages,US,P,C,51-60,Male,Win
+51,Computer Hardware,ES,C,C,31-40,Male,Loss
+53,Investment Management,US,P,D,51-60,Male,Win
+54,Internet,US,C,H,31-40,Male,Win
+56,Apparel & Fashion,FR,P,H,18-30,Male,Loss
+57,Computer Software,SE,P,E,18-30,Male,Loss
+58,Wireless,ES,O,A,18-30,Male,Loss
+59,Computer Software,SE,P,E,18-30,Female,Loss
+61,Animation,FR,C,D,18-30,Female,Loss
+62,Management Consulting,GB,S,H,18-30,Male,Win
+63,Telecommunications,GB,C,H,31-40,Male,Win
+65,Internet,US,C,H,18-30,Female,Win
+66,Government Administration,US,G,G,31-40,Male,Loss
+67,Accounting,US,C,A,51-60,Male,Win
+68,Government Relations,GB,G,C,31-40,Female,Loss
+71,Human Resources,US,C,H,51-60,Male,Loss
+72,Design,DE,C,B,31-40,Male,Win
+73,Computer Software,RU,P,F,18-30,Male,Loss
+75,Gambling & Casinos,US,C,H,41-50,Male,Win
+79,Information Technology & Services,PT,S,C,31-40,Male,Win
+80,Telecommunications,US,P,A,18-30,Male,Win
+81,Wholesale,ES,P,D,31-40,Male,Loss
+83,Food & Beverages,CH,C,H,31-40,Male,Win
+84,Electrical & Electronic Manufacturing,CH,C,H,18-30,Male,Loss
+85,Information Technology & Services,DE,P,C,18-30,Female,Win
+87,Computer Software,US,P,D,18-30,Male,Win
+88,Human Resources,DE,P,B,31-40,Male,Win
+91,Management Consulting,GB,P,E,31-40,Male,Win
+92,Mechanical or Industrial Engineering,SE,C,G,18-30,Male,Loss
+93,Textiles,FR,O,C,31-40,Male,Loss
+94,Insurance,US,P,F,31-40,Male,Win
+95,Management Consulting,US,P,A,18-30,Female,Win
+96,Information Technology & Services,PT,P,C,18-30,Female,Win
+98,Automotive,ES,P,G,18-30,Male,Loss
+100,Mechanical or Industrial Engineering,PT,P,B,31-40,Male,Win
+101,Computer Networking,US,P,B,18-30,Female,Win
+103,Design,NL,P,B,18-30,Female,Win
+105,Gambling & Casinos,GB,C,H,18-30,Female,Win
+106,Utilities,BR,P,F,18-30,Male,Loss
+107,Business Supplies & Equipment,ES,P,C,41-50,Female,Loss
+110,Venture Capital,DE,P,A,41-50,Male,Win
+111,Information Technology & Services,ES,E,A,18-30,Female,Loss
+117,Online Publishing,AU,P,A,31-40,Male,Loss
+118,Gambling & Casinos,LV,C,F,18-30,Male,Loss
+121,Sporting Goods,CA,P,B,18-30,Male,Loss
+122,Higher Education,DE,D,A,31-40,Female,Win
+124,Gambling & Casinos,MT,P,C,31-40,Male,Loss
+125,Food & Beverages,ES,C,C,31-40,Male,Win
+128,Gambling & Casinos,MT,C,E,18-30,Female,Loss
+129,Internet,GB,P,F,18-30,Female,Win
+130,Publishing,US,P,D,18-30,Female,Loss
+132,Computer Software,US,P,C,31-40,Male,Win
+133,Construction,ES,P,C,18-30,Male,Win
+134,Gambling & Casinos,GI,P,D,31-40,Male,Loss
+138,Banking,NL,C,H,41-50,Male,Loss
+139,Tobacco,US,C,H,18-30,Female,Loss
+140,Information Technology & Services,CH,C,E,31-40,Male,Win
+141,Hospitality,US,C,H,41-50,Male,Win
+147,Information Technology & Services,US,C,F,31-40,Male,Win
+148,Internet,SE,C,B,18-30,Male,Win
+152,Broadcast Media,US,P,G,31-40,Female,Loss
+153,Leisure & Travel,PT,P,E,41-50,Male,Loss
+154,Gambling & Casinos,GB,C,H,18-30,Male,Win
+155,Marketing & Advertising,US,P,C,18-30,Female,Win
+158,Computer Software,IS,P,C,41-50,Male,Win
+160,Gambling & Casinos,SE,C,E,31-40,Female,Loss
+161,Management Consulting,US,P,B,31-40,Male,Win
+165,Marketing & Advertising,US,P,A,31-40,Male,Win
+166,Information Technology & Services,US,P,H,18-30,Female,Win
+167,Human Resources,GB,P,A,18-30,Female,Win
+171,Information Technology & Services,US,C,G,41-50,Male,Win
+172,Computer Software,PT,P,C,18-30,Male,Win
+174,Retail,US,C,H,18-30,Male,Win
+175,Real Estate,IT,P,A,31-40,Male,Win
+176,Broadcast Media,US,P,C,18-30,Female,Win
+180,Financial Services,FR,C,G,18-30,Male,Loss
+182,Automotive,US,C,H,31-40,Female,Win
+183,Information Technology & Services,TR,P,F,18-30,Female,Loss
+184,Computer Software,US,P,A,31-40,Male,Win
+186,Information Technology & Services,US,P,D,31-40,Male,Win
+188,Internet,PT,P,B,31-40,Male,Win
+192,Hospitality,US,C,H,18-30,Female,Win
+193,Information Technology & Services,CA,P,A,31-40,Male,Win
+194,Internet,US,C,H,51-60,Male,Win
+196,International Trade & Development,US,N,F,41-50,Female,Loss
+197,Public Relations,US,P,B,31-40,Male,Win
+200,Internet,DK,P,B,31-40,Male,Win
+202,Wine & Spirits,US,P,H,31-40,Male,Loss
+204,Internet,GB,P,B,31-40,Male,Win
+205,Hospitality,ES,O,A,18-30,Female,Loss
+206,Computer Software,GB,P,C,18-30,Female,Win
+208,Computer Software,US,P,B,18-30,Female,Win
+209,Design,IN,P,A,41-50,Male,Win
+210,Law Practice,US,S,F,31-40,Female,Loss
+211,Government Administration,ES,N,D,18-30,Female,Loss
+214,Computer Software,US,P,A,31-40,Male,Win
+215,Internet,GB,P,F,31-40,Male,Win
+216,Electrical & Electronic Manufacturing,US,P,C,18-30,Female,Win
+217,Wholesale,US,C,G,31-40,Male,Loss
+221,Marketing & Advertising,GB,P,B,18-30,Male,Win
+223,Law Practice,US,S,F,18-30,Female,Loss
+225,Renewables & Environment,US,P,A,18-30,Male,Win
+226,Food & Beverages,US,P,A,18-30,Male,Win
+228,Computer Networking,US,C,A,18-30,Male,Win
+230,Electrical & Electronic Manufacturing,NL,C,C,31-40,Male,Win
+231,Biotechnology,PT,N,A,18-30,Male,Loss
+232,Computer Software,DE,C,H,31-40,Male,Win
+233,Internet,US,C,G,18-30,Male,Win
+234,Internet,IL,P,A,31-40,Female,Loss
+236,Sports,GB,P,D,41-50,Male,Loss
+237,Information Technology & Services,US,P,D,18-30,Female,Win
+238,Staffing & Recruiting,SE,C,B,18-30,Female,Win
+241,Internet,US,P,F,18-30,Male,Win
+242,Financial Services,BR,P,E,31-40,Male,Loss
+243,Computer Networking,US,P,B,31-40,Female,Win
+244,Venture Capital,CH,P,B,18-30,Female,Win
+245,Industrial Automation,AT,P,F,41-50,Male,Loss
+247,Computer Software,US,C,H,18-30,Male,Win
+248,Law Practice,US,P,C,18-30,Female,Win
+249,Accounting,US,S,C,31-40,Male,Win
+251,Computer Software,US,P,E,31-40,Male,Win
+252,Computer & Network Security,US,P,F,41-50,Male,Win
+253,Information Technology & Services,DE,S,B,18-30,Male,Win
+254,Accounting,BR,P,B,41-50,Male,Win
+256,Information Technology & Services,US,C,D,41-50,Male,Win
+257,Higher Education,FR,D,F,41-50,Male,Loss
+258,Information Technology & Services,PT,P,E,18-30,Female,Win
+259,Computer Software,NL,P,B,18-30,Male,Win
+262,Management Consulting,BR,P,A,18-30,Male,Win
+263,Computer Software,US,P,D,31-40,Male,Win
+265,Information Technology & Services,PT,P,E,31-40,Male,Win
+266,Public Relations,US,P,C,41-50,Male,Win
+267,Information Technology & Services,AU,P,A,41-50,Male,Win
+269,Leisure & Travel,US,C,D,18-30,Female,Loss
+270,Marketing & Advertising,US,C,D,31-40,Male,Win
+272,Information Technology & Services,US,P,C,41-50,Male,Win
+275,Computer Software,US,P,E,18-30,Male,Win
+276,Financial Services,US,C,F,31-40,Male,Win
+278,Staffing & Recruiting,ES,P,B,31-40,Male,Win
+279,Staffing & Recruiting,US,P,A,41-50,Male,Win
+281,Business Supplies & Equipment,US,C,C,31-40,Male,Win
+284,Internet,US,P,G,31-40,Male,Win
+285,Staffing & Recruiting,GB,P,B,18-30,Male,Win
+287,Public Safety,US,P,C,31-40,Female,Win
+288,Wholesale,US,P,C,18-30,Male,Win
+289,Accounting,US,P,F,18-30,Female,Win
+290,Internet,CH,C,A,18-30,Male,Win
+291,Information Technology & Services,US,P,B,51-60,Male,Win
+292,Accounting,US,P,A,51-60,Male,Win
+293,Retail,US,P,C,18-30,Male,Win
+294,Banking,US,C,F,31-40,Female,Loss
+295,Information Technology & Services,US,P,C,18-30,Female,Win
+297,Hospital & Health Care,US,P,C,18-30,Female,Win
+298,Venture Capital,PT,P,B,31-40,Male,Win
+299,Computer Software,US,P,C,41-50,Male,Win
+300,Staffing & Recruiting,GB,P,B,18-30,Male,Win
+301,"Health, Wellness & Fitness",US,P,C,51-60,Male,Win
+302,Professional Training,US,P,B,41-50,Male,Win
+303,Gambling & Casinos,GB,P,F,18-30,Female,Win
+305,Information Technology & Services,GB,C,D,18-30,Female,Win
+306,Information Technology & Services,FR,C,F,41-50,Male,Win
+307,Computer Games,US,P,D,18-30,Female,Win
+308,Photography,GB,P,B,41-50,Male,Win
+310,Information Technology & Services,ZA,D,C,31-40,Male,Loss
+311,Executive Office,US,C,H,41-50,Male,Loss
+312,Computer Software,US,C,F,18-30,Female,Win
+313,Computer Software,DK,P,C,31-40,Male,Win
+315,Information Technology & Services,ZA,D,C,31-40,Female,Loss
+317,Market Research,US,P,A,31-40,Male,Win
+318,Online Publishing,US,P,C,51-60,Male,Win
+319,Retail,US,C,H,31-40,Male,Win
+320,Information Technology & Services,GB,C,A,18-30,Male,Win
+321,Marketing & Advertising,US,P,B,31-40,Female,Win
+322,Internet,LU,P,D,18-30,Male,Loss
+323,Internet,US,C,H,31-40,Male,Win
+324,Financial Services,JP,C,H,18-30,Male,Loss
+327,Telecommunications,US,C,H,41-50,Male,Win
+328,Internet,DE,P,B,18-30,Female,Win
+329,Investment Banking/Venture,US,P,A,41-50,Male,Win
+330,Computer Software,BE,P,B,51-60,Male,Win
+331,Nanotechnology,US,P,C,31-40,Male,Win
+332,Computer Software,US,P,D,41-50,Female,Win
+334,Information Technology & Services,US,C,H,18-30,Male,Win
+335,Paper & Forest Products,AT,P,C,31-40,Male,Loss
+336,Computer Networking,US,C,H,31-40,Male,Loss
+337,Financial Services,PE,P,B,41-50,Male,Win
+340,Information Technology & Services,FI,P,D,31-40,Male,Loss
+341,Internet,US,P,A,41-50,Male,Win
+342,Human Resources,US,P,C,41-50,Male,Win
+343,Information Technology & Services,DE,P,C,31-40,Male,Win
+344,Education Management,US,P,B,18-30,Female,Win
+345,Financial Services,US,C,H,31-40,Male,Win
+346,Marketing & Advertising,US,P,C,41-50,Male,Win
+347,Education Management,RO,P,C,31-40,Female,Loss
+348,Chemicals,US,C,H,51-60,Male,Loss
+349,Education Management,GB,C,H,18-30,Female,Win
+350,Outsourcing/Offshoring,GB,P,E,18-30,Male,Loss
+351,Information Technology & Services,US,P,E,51-60,Male,Win
+352,Oil & Energy,US,S,C,31-40,Male,Win
+354,Environmental Services,US,P,A,31-40,Male,Win
+360,Professional Training,GB,N,C,18-30,Male,Loss
+361,Staffing & Recruiting,US,P,C,31-40,Male,Win
+362,Entertainment,CA,P,A,18-30,Male,Win
+364,Computer Hardware,GB,P,B,41-50,Male,Win
+366,Financial Services,US,P,D,31-40,Female,Win
+367,Internet,DE,P,C,18-30,Male,Win
+368,Hospitality,US,N,B,31-40,Male,Win
+370,Marketing & Advertising,US,P,F,51-60,Male,Win
+371,Design,GB,P,C,31-40,Male,Win
+373,Computer Software,US,P,B,31-40,Male,Win
+377,Information Services,AU,P,B,31-40,Male,Loss
+378,Biotechnology,IE,C,C,31-40,Male,Loss
+379,Import & Export,FI,C,D,18-30,Female,Loss
+382,Human Resources,US,P,F,31-40,Male,Loss
+383,Facilities Services,IN,C,E,41-50,Male,Loss
+386,Internet,US,C,E,18-30,Male,Win
+388,Online Publishing,US,C,F,31-40,Male,Loss
+389,Online Publishing,AU,C,G,18-30,Male,Loss
+393,Marketing & Advertising,GB,P,B,41-50,Male,Win
+395,Broadcast Media,US,P,F,18-30,Male,Loss
+397,Computer Software,US,E,A,31-40,Male,Win
+404,Biotechnology,US,C,C,18-30,Female,Win
+405,Computer Software,US,P,B,31-40,Male,Win
+406,Outsourcing/Offshoring,US,P,G,31-40,Male,Loss
+407,Electrical & Electronic Manufacturing,US,P,C,41-50,Male,Win
+408,Venture Capital,CH,P,B,31-40,Male,Win
+410,Hospitality,FR,C,H,31-40,Male,Loss
+411,Translation & Localization,US,P,F,18-30,Male,Loss
+412,Computer Software,US,P,A,31-40,Male,Win
+414,Internet,US,P,G,41-50,Male,Win
+415,Information Technology & Services,US,C,F,18-30,Male,Win
+417,Real Estate,US,C,F,41-50,Male,Win
+418,Staffing & Recruiting,GB,C,B,18-30,Male,Win
+420,Information Technology & Services,US,P,E,18-30,Female,Win
+422,Electrical & Electronic Manufacturing,DE,C,H,18-30,Male,Win
+423,Marketing & Advertising,US,C,C,41-50,Male,Win
+425,Public Relations,US,P,D,41-50,Male,Loss
+427,Professional Training,US,P,D,51-60,Male,Loss
+428,Entertainment,FR,P,D,41-50,Male,Loss
+429,Financial Services,CA,P,C,18-30,Male,Win
+430,Investment Management,US,C,D,41-50,Male,Loss
+431,Higher Education,US,D,F,18-30,Male,Loss
+433,Human Resources,DE,P,G,18-30,Male,Loss
+434,Computer Software,US,P,D,41-50,Male,Win
+435,Financial Services,DE,C,C,41-50,Male,Win
+436,Mechanical or Industrial Engineering,IN,C,H,31-40,Male,Loss
+437,Information Technology & Services,DE,P,B,51-60,Male,Win
+438,"Health, Wellness & Fitness",DE,P,C,18-30,Male,Win
+440,Banking,US,P,E,18-30,Male,Loss
+441,Information Technology & Services,US,P,F,31-40,Male,Win
+442,Information Technology & Services,CH,P,F,18-30,Male,Win
+443,Information Technology & Services,GB,P,C,18-30,Male,Win
+445,Marketing & Advertising,US,P,A,31-40,Male,Win
+446,Computer Software,US,C,F,31-40,Male,Win
+447,Computer Software,DE,P,C,18-30,Male,Win
+448,Staffing & Recruiting,GB,P,B,31-40,Male,Win
+449,Computer Software,MD,P,B,18-30,Female,Win
+450,Civil Engineering,US,P,C,51-60,Male,Win
+451,Computer Software,US,P,C,41-50,Female,Win
+452,Marketing & Advertising,US,P,A,31-40,Female,Win
+455,Marketing & Advertising,DE,C,E,31-40,Male,Win
+456,Insurance,US,P,H,18-30,Male,Win
+459,Staffing & Recruiting,GB,P,C,18-30,Female,Win
+460,Aviation & Aerospace,RO,N,C,31-40,Female,Loss
+462,Computer Software,US,P,C,18-30,Female,Win
+463,Design,US,P,D,41-50,Male,Loss
+464,Internet,US,P,E,31-40,Male,Win
+466,Marketing & Advertising,FR,C,C,18-30,Female,Win
+468,Oil & Energy,OM,C,F,18-30,Male,Loss
+469,Computer Hardware,DE,P,A,41-50,Male,Win
+471,Computer Networking,GB,P,C,18-30,Male,Win
+472,Staffing & Recruiting,NL,P,C,18-30,Female,Win
+475,Individual & Family Services,IT,P,B,31-40,Male,Loss
+478,Newspapers,US,P,D,51-60,Male,Loss
+480,Staffing & Recruiting,IE,O,A,41-50,Male,Loss
+481,Law Practice,US,P,A,41-50,Female,Win
+483,Real Estate,GB,P,C,18-30,Female,Win
+484,Nonprofit Organization Management,PL,N,C,18-30,Female,Loss
+485,Staffing & Recruiting,GB,C,F,18-30,Female,Win
+486,Computer Software,US,P,C,31-40,Male,Win
+488,Banking,AE,C,G,31-40,Male,Loss
+489,Staffing & Recruiting,FR,S,A,18-30,Male,Win
+490,Internet,IN,P,E,51-60,Male,Loss
+491,Information Technology & Services,GB,C,A,41-50,Male,Win
+492,Nonprofit Organization Management,BE,P,D,31-40,Male,Loss
+493,Legal Services,AU,C,B,18-30,Female,Loss
+494,Computer Software,US,P,C,31-40,Male,Win
+495,Education Management,US,D,G,41-50,Male,Loss
+496,Civil Engineering,US,P,D,41-50,Male,Loss
+497,Higher Education,US,P,C,51-60,Male,Win
+498,Broadcast Media,CA,P,D,18-30,Female,Loss
+503,Financial Services,US,S,B,31-40,Male,Win
+504,Staffing & Recruiting,GB,P,C,18-30,Male,Win
+505,Restaurants,US,C,H,18-30,Female,Loss
+507,Information Technology & Services,DE,P,C,18-30,Male,Win
+508,Marketing & Advertising,GB,P,B,18-30,Male,Win
+510,Construction,US,P,H,31-40,Male,Win
+511,Mechanical or Industrial Engineering,US,P,B,18-30,Female,Win
+512,Building Materials,US,P,E,31-40,Male,Loss
+513,Telecommunications,NG,P,F,18-30,Male,Loss
+514,Computer Games,US,P,D,31-40,Male,Win
+515,Government Administration,US,G,F,31-40,Male,Loss
+516,Electrical & Electronic Manufacturing,US,P,C,41-50,Male,Win
+517,Pharmaceuticals,JO,P,F,18-30,Female,Loss
+518,Information Technology & Services,US,P,C,41-50,Male,Win
+520,Marketing & Advertising,US,C,E,31-40,Male,Win
+521,Automotive,SE,C,H,41-50,Female,Loss
+522,Pharmaceuticals,US,P,D,31-40,Male,Loss
+523,Publishing,AU,N,B,18-30,Male,Loss
+524,Oil & Energy,CA,C,G,18-30,Male,Loss
+528,Staffing & Recruiting,GB,C,B,18-30,Female,Win
+529,Information Technology & Services,US,P,B,18-30,Male,Win
+530,Internet,US,C,H,31-40,Male,Win
+531,Consumer Goods,AM,C,H,18-30,Male,Loss
+532,Defense & Space,US,P,B,41-50,Male,Win
+533,Automotive,MX,C,H,41-50,Male,Loss
+534,Staffing & Recruiting,US,P,E,31-40,Female,Win
+535,Investment Management,CH,P,A,41-50,Male,Win
+536,Sports,GB,C,B,31-40,Male,Win
+539,Information Technology & Services,DE,C,F,41-50,Male,Win
+540,Venture Capital,GB,C,B,18-30,Male,Win
+542,Financial Services,GB,P,E,31-40,Male,Win
+543,Computer Software,CA,P,E,31-40,Male,Win
+545,Construction,US,P,D,18-30,Male,Loss
+547,Transportation/Trucking/Railroad,GB,N,H,18-30,Male,Loss
+548,E-learning,US,N,B,31-40,Male,Win
+549,Information Technology & Services,AU,P,A,18-30,Female,Win
+550,Financial Services,RU,C,F,18-30,Male,Loss
+551,Information Technology & Services,US,P,C,31-40,Male,Win
+552,Telecommunications,US,C,F,18-30,Male,Win
+554,Staffing & Recruiting,US,P,D,18-30,Male,Win
+555,Management Consulting,US,P,C,31-40,Female,Win
+556,Higher Education,CA,D,F,31-40,Female,Loss
+557,Telecommunications,CA,C,F,41-50,Male,Loss
+558,E-learning,IE,P,C,18-30,Female,Loss
+560,Online Publishing,US,P,B,51-60,Male,Win
+562,Museums & Institutions,US,N,E,51-60,Male,Loss
+563,Information Technology & Services,US,P,C,31-40,Male,Win
+565,Computer Software,US,C,G,31-40,Male,Win
+566,Information Technology & Services,US,P,D,18-30,Male,Win
+567,Management Consulting,GB,P,C,41-50,Female,Win
+568,Logistics & Supply Chain,NL,C,H,41-50,Male,Loss
+569,Biotechnology,US,P,B,31-40,Male,Win
+571,Consumer Goods,BE,C,F,31-40,Male,Loss
+572,Information Technology & Services,US,P,D,18-30,Male,Win
+573,Accounting,BR,S,E,51-60,Male,Loss
+574,Staffing & Recruiting,HK,P,C,18-30,Female,Loss
+576,Computer Software,US,S,A,31-40,Male,Win
+577,Higher Education,US,D,D,18-30,Male,Loss
+578,Pharmaceuticals,US,P,C,31-40,Male,Win
+579,Information Technology & Services,US,P,B,41-50,Male,Win
+580,Entertainment,FR,P,D,18-30,Male,Loss
+582,Internet,ID,P,C,18-30,Female,Win
+583,Information Technology & Services,CA,P,A,51-60,Male,Win
+584,Telecommunications,GB,C,H,31-40,Male,Win
+585,Staffing & Recruiting,US,C,F,18-30,Female,Win
+586,Computer Software,US,C,E,31-40,Male,Win
+587,Retail,FR,P,H,31-40,Male,Win
+588,Telecommunications,IN,C,H,18-30,Female,Win
+589,Telecommunications,US,N,B,31-40,Male,Win
+590,Information Technology & Services,ET,P,D,31-40,Male,Loss
+591,Staffing & Recruiting,GB,P,B,41-50,Male,Win
+592,Law Practice,US,S,E,51-60,Male,Loss
+593,Renewables & Environment,ES,P,C,31-40,Male,Win
+594,Information Technology & Services,US,C,H,18-30,Female,Win
+595,Management Consulting,US,C,F,51-60,Male,Win
+596,Information Technology & Services,US,O,A,41-50,Male,Win
+598,Maritime,US,P,D,31-40,Male,Loss
+599,Entertainment,US,C,E,51-60,Male,Loss
+600,Information Services,US,P,D,41-50,Male,Loss
+604,Real Estate,US,C,F,18-30,Female,Win
+605,Industrial Automation,US,P,D,41-50,Male,Loss
+606,Accounting,GB,P,H,41-50,Male,Win
+607,Management Consulting,US,P,E,18-30,Male,Win
+609,Computer Software,US,P,F,18-30,Female,Win
+610,Staffing & Recruiting,US,P,C,31-40,Male,Win
+611,Telecommunications,DE,P,F,31-40,Male,Win
+612,Maritime,GB,P,B,31-40,Female,Win
+613,Financial Services,US,P,B,41-50,Male,Win
+614,Professional Training,US,P,D,31-40,Male,Loss
+616,Nonprofit Organization Management,US,N,E,31-40,Female,Loss
+617,Food & Beverages,US,P,E,31-40,Male,Loss
+618,Internet,US,P,D,18-30,Female,Win
+619,Pharmaceuticals,NL,G,D,41-50,Male,Loss
+620,Computer Software,US,P,C,31-40,Male,Win
+624,Management Consulting,CA,P,B,41-50,Female,Win
+625,Medical Device,US,C,H,31-40,Male,Loss
+627,Information Technology & Services,US,P,D,31-40,Female,Win
+629,Insurance,CA,P,C,41-50,Male,Win
+630,Restaurants,US,P,F,31-40,Male,Loss
+632,Internet,US,P,E,31-40,Male,Win
+633,Computer Software,AU,P,C,31-40,Male,Win
+634,Real Estate,US,P,C,41-50,Male,Win
+635,Internet,US,C,G,41-50,Male,Win
+638,Broadcast Media,US,P,F,51-60,Male,Loss
+639,Chemicals,CA,C,D,51-60,Male,Loss
+640,Marketing & Advertising,GB,C,C,18-30,Male,Win
+641,Entertainment,US,P,A,51-60,Male,Win
+642,Luxury Goods & Jewelry,DE,O,F,18-30,Female,Loss
+643,Financial Services,MX,P,D,18-30,Male,Loss
+644,Broadcast Media,US,P,H,18-30,Male,Win
+645,Hospitality,GB,P,F,18-30,Female,Win
+646,Computer Software,US,C,G,41-50,Male,Win
+647,Education Management,IN,D,D,41-50,Female,Loss
+648,Internet,US,P,D,18-30,Male,Win
+649,Law Practice,US,S,A,51-60,Male,Win
+650,Logistics & Supply Chain,DE,P,B,18-30,Male,Win
+651,Banking,GB,P,D,31-40,Male,Loss
+653,Information Technology & Services,IN,P,C,31-40,Female,Win
+655,Pharmaceuticals,CH,C,H,31-40,Male,Loss
+656,Computer Software,US,C,E,31-40,Male,Win
+657,Biotechnology,US,P,B,41-50,Male,Win
+658,Computer Software,US,P,B,18-30,Male,Win
+660,Insurance,US,P,F,31-40,Male,Win
+661,Information Technology & Services,US,P,B,18-30,Male,Win
+662,Information Technology & Services,US,P,E,41-50,Male,Win
+663,Computer Software,US,P,D,41-50,Male,Win
+664,Information Technology & Services,MX,P,H,41-50,Male,Win
+667,Information Technology & Services,US,P,D,18-30,Male,Win
+668,Staffing & Recruiting,GB,P,F,18-30,Female,Win
+669,Aviation & Aerospace,US,P,C,31-40,Male,Win
+671,Architecture & Planning,US,C,F,31-40,Female,Loss
+672,Information Technology & Services,US,C,H,51-60,Male,Win
+673,Retail,CA,C,G,18-30,Male,Loss
+674,Computer Software,US,P,C,18-30,Male,Win
+675,Financial Services,GB,P,D,41-50,Male,Win
+677,Computer Software,US,C,F,18-30,Male,Win
+678,"Health, Wellness & Fitness",US,N,E,18-30,Female,Loss
+680,Oil & Energy,US,C,H,31-40,Male,Win
+681,Financial Services,FI,N,A,41-50,Male,Loss
+682,Computer Software,GB,P,C,18-30,Male,Win
+683,Staffing & Recruiting,CA,C,E,18-30,Female,Loss
+684,Computer Software,US,P,C,18-30,Female,Win
+688,Higher Education,US,D,A,31-40,Female,Win
+689,Medical Device,FR,C,H,18-30,Male,Loss
+690,Medical Device,US,C,G,18-30,Male,Loss
+691,Information Technology & Services,FR,P,F,31-40,Male,Win
+692,Information Technology & Services,US,P,C,18-30,Female,Win
+693,Information Technology & Services,US,D,A,31-40,Female,Win
+695,Research,CA,P,F,18-30,Male,Loss
+696,Staffing & Recruiting,US,P,B,31-40,Male,Win
+698,Electrical & Electronic Manufacturing,US,C,H,31-40,Male,Win
+699,Maritime,US,C,D,18-30,Female,Loss
+700,Financial Services,ZA,P,C,31-40,Male,Win
+701,Medical Device,US,C,G,18-30,Male,Loss
+702,Staffing & Recruiting,SG,C,C,18-30,Male,Loss
+703,Telecommunications,AU,C,H,31-40,Male,Loss
+707,Banking,CH,C,E,41-50,Male,Loss
+709,Internet,US,P,D,18-30,Female,Win
+710,Telecommunications,RU,C,F,31-40,Male,Loss
+712,Apparel & Fashion,US,C,H,18-30,Female,Win
+714,Accounting,CA,S,G,41-50,Male,Loss
+715,Accounting,US,S,H,51-60,Male,Win
+718,Pharmaceuticals,US,C,H,41-50,Female,Loss
+723,Marketing & Advertising,US,P,B,31-40,Female,Win
+724,Real Estate,US,P,A,51-60,Male,Win
+725,Food & Beverages,US,P,F,18-30,Female,Win
+727,Translation & Localization,GB,C,C,18-30,Female,Loss
+728,Hospital & Health Care,US,N,C,31-40,Female,Win
+729,Internet,US,P,D,18-30,Female,Win
+730,Medical Device,US,P,C,41-50,Male,Win
+732,Hospital & Health Care,US,C,H,18-30,Female,Win
+733,Computer Software,GB,C,H,31-40,Male,Win
+737,Venture Capital,GB,C,B,18-30,Female,Win
+738,Outsourcing/Offshoring,RU,P,B,41-50,Male,Loss
+739,Publishing,US,P,D,18-30,Female,Loss
+740,International Trade & Development,NL,G,C,31-40,Female,Loss
+741,Management Consulting,DE,O,A,51-60,Male,Loss
+742,Venture Capital,GB,P,D,18-30,Female,Win
+743,Telecommunications,NL,C,H,31-40,Male,Win
+744,Biotechnology,CH,P,H,41-50,Male,Loss
+746,Staffing & Recruiting,US,C,H,18-30,Female,Win
+749,Computer Software,BG,C,B,18-30,Male,Win
+752,Staffing & Recruiting,US,P,E,41-50,Male,Win
+754,Entertainment,IN,P,F,18-30,Female,Loss
+760,Construction,US,P,G,18-30,Male,Loss
+761,Computer Software,US,P,C,31-40,Male,Win
+762,Marketing & Advertising,US,P,B,18-30,Female,Win
+765,Internet,US,P,D,18-30,Male,Win
+767,Venture Capital,DE,N,A,31-40,Female,Win
+768,Design,US,P,B,31-40,Male,Win
+769,Computer Software,US,P,D,41-50,Male,Win
+771,Logistics & Supply Chain,ES,C,H,31-40,Male,Loss
+772,Computer Software,GB,C,B,31-40,Male,Win
+773,Transportation/Trucking/Railroad,US,P,H,18-30,Male,Loss
+774,Government Administration,US,G,F,41-50,Male,Loss
+777,Financial Services,DE,P,B,31-40,Male,Win
+779,Oil & Energy,CH,C,F,18-30,Female,Win
+781,Consumer Goods,US,C,E,31-40,Male,Loss
+782,Financial Services,DE,P,A,41-50,Male,Win
+783,Internet,DE,C,F,18-30,Male,Win
+784,Writing & Editing,US,E,A,41-50,Female,Loss
+785,Electrical & Electronic Manufacturing,US,C,H,18-30,Female,Win
+787,Venture Capital,DE,P,A,18-30,Female,Win
+788,Information Technology & Services,US,C,H,18-30,Male,Win
+789,Financial Services,DE,C,F,18-30,Male,Win
+790,Restaurants,DE,P,G,31-40,Male,Loss
+792,Medical Device,US,P,C,41-50,Male,Win
+793,Information Technology & Services,US,C,H,18-30,Male,Win
+796,Pharmaceuticals,DK,P,F,31-40,Male,Loss
+798,Computer & Network Security,PL,P,B,18-30,Female,Loss
+799,Internet,NL,P,C,18-30,Male,Win
+801,Financial Services,US,P,G,31-40,Female,Win
+802,Government Administration,CH,N,B,18-30,Male,Loss
+803,Information Technology & Services,IE,C,H,31-40,Male,Win
+805,Media Production,DE,E,C,41-50,Male,Loss
+806,Information Technology & Services,US,C,H,18-30,Female,Win
+808,Staffing & Recruiting,GB,P,B,18-30,Male,Win
+810,Information Technology & Services,US,C,H,31-40,Male,Win
+812,Financial Services,CH,P,F,18-30,Male,Win
+813,Internet,US,C,H,31-40,Male,Win
+814,Human Resources,BE,P,F,41-50,Male,Loss
+816,Staffing & Recruiting,GB,P,B,31-40,Male,Win
+817,Information Technology & Services,DE,P,D,18-30,Male,Win
+818,Information Technology & Services,CZ,P,D,18-30,Male,Loss
+819,Venture Capital,DE,P,A,31-40,Male,Win
+820,Construction,GB,C,E,18-30,Female,Loss
+821,Semiconductors,US,P,H,18-30,Female,Loss
+822,Information Technology & Services,NL,P,C,18-30,Male,Win
+823,Financial Services,CH,P,C,31-40,Male,Win
+825,Hospital & Health Care,US,N,F,31-40,Male,Loss
+826,Management Consulting,US,C,F,31-40,Male,Win
+827,Banking,PK,P,F,31-40,Male,Loss
+828,Information Technology & Services,GB,C,B,31-40,Male,Win
+830,Religious Institutions,US,N,B,31-40,Male,Loss
+832,Education Management,JO,P,E,31-40,Male,Loss
+833,"Health, Wellness & Fitness",AU,P,D,31-40,Male,Loss
+834,Hospital & Health Care,US,C,H,51-60,Male,Win
+836,Animation,EG,E,A,18-30,Female,Loss
+840,Financial Services,US,P,C,41-50,Male,Win
+841,Oil & Energy,NO,P,B,18-30,Male,Win
+842,Automotive,EG,C,E,41-50,Male,Loss
+843,Nonprofit Organization Management,BR,N,G,18-30,Male,Loss
+844,Accounting,US,S,H,31-40,Male,Win
+846,Financial Services,DE,C,B,31-40,Male,Win
+849,Retail,SE,C,C,41-50,Male,Loss
+850,Financial Services,DE,P,C,41-50,Male,Win
+851,Information Technology & Services,GB,P,B,31-40,Male,Win
+854,Staffing & Recruiting,US,P,E,41-50,Male,Win
+857,Computer Software,US,C,H,18-30,Female,Win
+859,Internet,US,P,D,18-30,Male,Win
+860,Marketing & Advertising,CA,P,E,31-40,Female,Loss
+864,Consumer Goods,DE,C,E,31-40,Male,Loss
+865,Information Technology & Services,US,C,H,41-50,Male,Win
+867,Insurance,CH,C,F,31-40,Male,Loss
+868,Supermarkets,US,P,G,41-50,Male,Loss
+869,"Health, Wellness & Fitness",DE,D,B,51-60,Male,Loss
+871,Computer Software,US,C,E,41-50,Male,Win
+875,Staffing & Recruiting,GB,P,B,18-30,Male,Win
+878,Information Technology & Services,US,P,E,41-50,Male,Win
+880,Financial Services,DE,C,C,41-50,Male,Win
+882,Banking,DE,C,F,31-40,Male,Loss
+883,Computer Software,FR,P,C,41-50,Male,Win
+884,Retail,US,P,B,18-30,Male,Win
+885,Marketing & Advertising,DE,P,B,18-30,Male,Win
+887,Information Technology & Services,DE,E,A,18-30,Male,Win
+888,Financial Services,US,C,H,31-40,Male,Win
+889,Nonprofit Organization Management,US,N,E,41-50,Male,Loss
+892,Sports,US,P,A,41-50,Male,Win
+895,Computer Software,US,C,G,18-30,Female,Win
+896,Public Relations,US,N,B,41-50,Female,Win
+899,Financial Services,US,P,C,41-50,Male,Win
+902,Computer Software,US,P,D,18-30,Female,Win
+903,Internet,DE,P,B,31-40,Male,Win
+906,Information Technology & Services,US,P,G,18-30,Male,Win
+907,Design,DE,P,B,41-50,Male,Win
+908,Internet,DE,P,C,41-50,Male,Win
+909,Internet,AM,P,C,18-30,Male,Win
+910,Management Consulting,CH,P,F,31-40,Female,Win
+911,Internet,DE,O,B,41-50,Male,Win
+912,Internet,DE,P,C,31-40,Male,Win
+913,E-learning,IN,P,A,18-30,Male,Loss
+914,Financial Services,DE,P,B,18-30,Male,Win
+915,Higher Education,US,D,H,18-30,Female,Win
+916,Consumer Electronics,DE,P,C,41-50,Male,Win
+917,Motion Pictures & Film,CH,P,A,18-30,Male,Loss
+918,Insurance,ID,P,C,31-40,Male,Loss
+919,Online Publishing,US,C,F,18-30,Female,Loss
+927,Higher Education,US,D,H,31-40,Male,Win
+932,Information Technology & Services,BR,P,A,31-40,Male,Win
+933,Real Estate,US,O,A,18-30,Female,Loss
+937,Staffing & Recruiting,DE,C,E,18-30,Female,Win
+940,Management Consulting,US,P,F,41-50,Male,Win
+941,Building Materials,TR,S,A,18-30,Male,Loss
+942,Information Technology & Services,US,P,C,31-40,Male,Win
+943,Computer & Network Security,DE,P,C,18-30,Male,Win
+944,Computer Software,DE,O,B,41-50,Male,Win
+945,Computer Software,GB,P,C,18-30,Male,Win
+947,Computer Software,CA,C,F,31-40,Male,Win
+948,Venture Capital,DE,S,B,31-40,Male,Win
+949,Outsourcing/Offshoring,IN,C,H,18-30,Male,Loss
+952,Internet,US,C,H,18-30,Male,Win
+953,Consumer Goods,TR,P,H,18-30,Male,Loss
+954,Real Estate,DE,S,A,18-30,Male,Win
+955,"Health, Wellness & Fitness",US,C,H,41-50,Male,Win
+957,Management Consulting,FR,S,C,31-40,Female,Win
+958,Logistics & Supply Chain,DE,P,B,18-30,Male,Win
+959,Apparel & Fashion,US,P,G,18-30,Female,Loss
+961,Hospital & Health Care,US,C,H,31-40,Female,Win
+962,Graphic Design,ES,P,C,31-40,Female,Loss
+966,Information Services,DE,O,B,41-50,Male,Loss
+967,Education Management,US,P,B,18-30,Male,Win
+968,Hospitality,US,C,H,31-40,Male,Win
+970,Venture Capital,DE,N,A,18-30,Male,Win
+971,Marketing & Advertising,DE,O,C,31-40,Male,Win
+975,Staffing & Recruiting,US,P,F,31-40,Female,Win
+976,Computer Software,US,P,F,18-30,Female,Win
+977,Financial Services,GB,P,B,41-50,Male,Win
+979,Information Technology & Services,DE,N,B,31-40,Female,Win
+980,Internet,DE,P,B,51-60,Female,Win
+981,Higher Education,US,D,E,18-30,Female,Loss
+984,Computer Software,DE,C,H,18-30,Male,Win
+986,Oil & Energy,IT,P,F,18-30,Male,Loss
+988,Banking,US,C,H,31-40,Female,Win
+990,Hospital & Health Care,US,C,H,31-40,Male,Win
+991,Aviation & Aerospace,BR,P,B,41-50,Male,Loss
+992,Information Technology & Services,AE,P,C,31-40,Male,Win
+993,Hospital & Health Care,US,D,F,31-40,Male,Loss
+994,Entertainment,US,C,G,31-40,Male,Loss
+995,Writing & Editing,DE,E,A,18-30,Female,Loss
+997,Investment Management,KW,C,C,41-50,Male,Loss
+998,Consumer Goods,IN,C,H,18-30,Male,Loss
+999,Computer Software,EG,P,E,31-40,Female,Loss
+1001,Financial Services,DE,P,B,18-30,Male,Win
+1002,Financial Services,GB,P,C,51-60,Male,Win
+1003,Marketing & Advertising,GB,C,C,18-30,Male,Win
+1004,Staffing & Recruiting,GB,P,C,18-30,Female,Win
+1007,Computer Software,DE,P,B,18-30,Male,Win
+1008,Leisure & Travel,IN,P,B,31-40,Male,Win
+1009,Computer Software,IN,P,D,18-30,Male,Win
+1012,Publishing,BR,P,C,18-30,Female,Loss
+1015,Marketing & Advertising,US,P,C,31-40,Male,Win
+1018,Higher Education,DE,N,C,31-40,Male,Win
+1019,Computer Software,US,C,F,31-40,Male,Win
+1020,Internet,DE,P,B,18-30,Male,Win
+1022,Food & Beverages,DE,P,D,41-50,Male,Win
+1023,Professional Training,US,P,B,41-50,Male,Win
+1024,Staffing & Recruiting,DE,P,C,31-40,Male,Win
+1025,Computer Software,US,C,E,18-30,Male,Win
+1027,Hospital & Health Care,DE,P,B,18-30,Female,Win
+1029,Nonprofit Organization Management,DE,N,B,18-30,Female,Win
+1030,Import & Export,DK,P,A,31-40,Male,Loss
+1031,Management Consulting,DE,C,A,31-40,Male,Win
+1034,Renewables & Environment,DK,P,A,18-30,Male,Loss
+1035,Information Technology & Services,AU,P,B,41-50,Male,Win
+1038,Marketing & Advertising,US,P,B,31-40,Male,Win
+1039,Telecommunications,DE,C,A,41-50,Male,Win
+1041,Nonprofit Organization Management,IN,N,B,18-30,Male,Loss
+1042,Management Consulting,DE,P,B,18-30,Male,Win
+1043,Online Publishing,US,P,A,18-30,Male,Win
+1044,Computer Software,RU,P,C,18-30,Male,Win
+1045,Hospitality,DE,P,D,41-50,Male,Loss
+1047,Machinery,DE,P,G,31-40,Male,Loss
+1048,Venture Capital,US,P,B,51-60,Male,Win
+1051,Aviation & Aerospace,US,P,D,31-40,Male,Loss
+1052,Food & Beverages,US,C,H,18-30,Female,Win
+1053,Internet,NL,C,F,31-40,Male,Win
+1054,Internet,US,N,A,18-30,Female,Win
+1055,Marketing & Advertising,US,P,B,41-50,Male,Win
+1058,Broadcast Media,IN,P,F,31-40,Female,Loss
+1059,Information Technology & Services,US,P,B,18-30,Male,Win
+1060,International Trade & Development,DE,N,B,31-40,Male,Loss
+1061,Information Technology & Services,DE,P,B,18-30,Male,Win
+1062,Real Estate,AE,S,B,18-30,Female,Loss
+1063,Venture Capital,DE,S,A,31-40,Male,Win
+1065,Computer Software,FI,P,B,31-40,Male,Win
+1066,Oil & Energy,US,C,H,51-60,Male,Win
+1067,Marketing & Advertising,DE,C,E,31-40,Male,Win
+1068,Philanthropy,US,N,A,18-30,Female,Loss
+1069,Telecommunications,US,C,H,18-30,Female,Win
+1071,Venture Capital,US,P,A,31-40,Male,Win
+1073,Hospitality,US,C,H,18-30,Female,Win
+1075,Marketing & Advertising,US,P,B,18-30,Male,Win
+1077,Financial Services,US,C,H,31-40,Male,Win
+1078,Computer Software,US,P,A,18-30,Male,Win
+1079,Hospital & Health Care,DE,P,A,18-30,Male,Win
+1080,Marketing & Advertising,GB,C,D,31-40,Male,Win
+1081,Real Estate,DE,P,A,18-30,Female,Win
+1082,Information Technology & Services,US,P,C,18-30,Male,Win
+1083,Broadcast Media,DE,P,B,31-40,Male,Win
+1086,Information Technology & Services,NO,C,B,18-30,Male,Win
+1087,Renewables & Environment,AT,P,B,31-40,Male,Win
+1088,Computer & Network Security,DE,P,B,18-30,Female,Win
+1089,Law Practice,US,S,F,41-50,Male,Loss
+1092,Real Estate,GB,P,B,18-30,Male,Win
+1093,Staffing & Recruiting,US,P,F,18-30,Male,Win
+1094,Information Technology & Services,DK,P,E,31-40,Male,Loss
+1095,Automotive,DE,P,B,31-40,Male,Win
+1096,Financial Services,DE,P,D,18-30,Male,Win
+1098,Marketing & Advertising,FR,C,H,31-40,Male,Win
+1099,Information Technology & Services,US,C,H,18-30,Female,Win
+1100,Information Technology & Services,PT,P,B,31-40,Male,Win
+1101,Sports,DE,C,D,18-30,Male,Loss
+1103,Internet,US,P,A,18-30,Male,Win
+1105,Civil Engineering,US,C,H,18-30,Female,Loss
+1106,Venture Capital,US,S,C,31-40,Male,Win
+1107,Venture Capital,US,S,C,41-50,Male,Win
+1108,Entertainment,US,C,F,31-40,Male,Win
+1110,Computer Games,DE,P,D,18-30,Male,Win
+1113,Venture Capital,US,P,B,18-30,Female,Win
+1114,Real Estate,SG,P,D,41-50,Male,Loss
+1115,Entertainment,IN,P,F,18-30,Female,Loss
+1116,Computer Software,DE,P,A,41-50,Male,Win
+1117,Venture Capital,US,S,A,18-30,Female,Win
+1118,Internet,US,P,C,31-40,Male,Win
+1119,Telecommunications,MY,C,F,31-40,Male,Loss
+1120,Entertainment,US,P,B,18-30,Female,Win
+1122,"Health, Wellness & Fitness",DE,P,B,31-40,Male,Win
+1123,Venture Capital,US,P,B,18-30,Female,Win
+1124,Information Technology & Services,DE,P,B,41-50,Male,Win
+1125,Computer Hardware,US,C,H,41-50,Male,Loss
+1126,E-learning,US,S,B,31-40,Male,Win
+1127,Hospital & Health Care,DE,P,A,18-30,Male,Win
+1129,Computer Games,DE,C,C,31-40,Male,Win
+1133,E-learning,US,D,H,31-40,Male,Loss
+1134,Information Technology & Services,DE,S,C,18-30,Male,Win
+1135,Accounting,US,P,C,18-30,Female,Win
+1136,Internet,DE,P,B,41-50,Male,Win
+1137,Information Technology & Services,NL,P,C,31-40,Male,Win
+1142,Oil & Energy,DE,C,F,41-50,Male,Win
+1143,Printing,US,P,C,41-50,Male,Win
+1144,Computer Software,AU,C,F,31-40,Male,Win
+1145,Information Technology & Services,US,P,D,31-40,Male,Win
+1146,Venture Capital,DE,S,C,18-30,Male,Win
+1148,Logistics & Supply Chain,US,C,H,18-30,Female,Loss
+1149,Internet,US,P,D,18-30,Male,Win
+1150,"Health, Wellness & Fitness",DE,P,A,18-30,Female,Win
+1151,Internet,DE,P,B,31-40,Male,Win
+1154,Hospital & Health Care,CA,C,H,31-40,Female,Loss
+1155,Textiles,FR,P,G,18-30,Male,Loss
+1157,Apparel & Fashion,DE,P,D,18-30,Male,Loss
+1158,Financial Services,DE,P,C,18-30,Male,Win
+1159,Automotive,DE,C,H,31-40,Male,Win
+1160,Marketing & Advertising,AE,P,D,18-30,Female,Loss
+1161,Venture Capital,IL,S,A,51-60,Male,Loss
+1162,Venture Capital,DE,P,B,18-30,Male,Win
+1165,E-learning,DE,P,D,18-30,Male,Loss
+1167,Events Services,DK,P,B,18-30,Male,Loss
+1168,Information Technology & Services,DE,P,B,18-30,Male,Win
+1169,Internet,US,N,B,31-40,Male,Win
+1171,Venture Capital,US,P,A,41-50,Male,Win
+1172,Computer Software,DE,P,F,18-30,Female,Win
+1173,Internet,GB,P,B,18-30,Male,Win
+1176,Venture Capital,DE,S,B,18-30,Male,Win
+1177,Computer Software,US,P,B,31-40,Male,Win
+1178,Food & Beverages,DE,S,F,31-40,Male,Loss
+1179,Marketing & Advertising,US,C,H,18-30,Male,Win
+1182,Internet,DE,C,D,18-30,Male,Win
+1184,Internet,US,P,D,18-30,Male,Win
+1185,Consumer Services,DE,P,A,31-40,Male,Loss
+1186,Information Technology & Services,US,P,D,18-30,Male,Win
+1187,Financial Services,US,C,H,18-30,Male,Win
+1189,Internet,US,P,C,18-30,Male,Win
+1190,Research,DE,C,A,31-40,Male,Loss
+1192,Venture Capital,US,P,B,31-40,Male,Win
+1194,Internet,DE,P,B,31-40,Male,Win
+1195,Marketing & Advertising,DE,D,B,31-40,Male,Win
+1196,Real Estate,IT,P,A,31-40,Male,Win
+1197,Computer Software,US,P,C,31-40,Male,Win
+1198,Computer Software,US,P,C,41-50,Male,Win
+1199,Renewables & Environment,DE,C,D,31-40,Female,Loss
+1203,Internet,US,P,A,31-40,Female,Win
+1205,Computer Software,GB,P,C,41-50,Male,Win
+1206,Internet,US,P,A,18-30,Male,Win
+1207,Automotive,DE,P,B,18-30,Male,Win
+1209,Venture Capital,US,P,B,41-50,Male,Win
+1210,Computer Software,US,P,A,18-30,Male,Win
+1211,Investment Banking/Venture,GB,P,C,41-50,Male,Win
+1212,Information Technology & Services,US,C,H,41-50,Male,Win
+1213,Media Production,AT,E,A,51-60,Male,Loss
+1214,Motion Pictures & Film,US,P,C,51-60,Male,Win
+1217,Venture Capital,DE,P,B,18-30,Male,Win
+1218,Higher Education,CH,D,C,31-40,Male,Win
+1219,Sports,FR,S,A,31-40,Male,Loss
+1220,Civic & Social Organization,AT,P,G,18-30,Male,Loss
+1221,Venture Capital,DE,S,A,51-60,Male,Win
+1222,Real Estate,US,S,D,41-50,Male,Loss
+1223,Renewables & Environment,US,N,B,51-60,Male,Win
+1224,Internet,SG,P,C,31-40,Male,Win
+1227,Computer Software,DE,O,B,18-30,Female,Win
+1228,Internet,US,C,E,51-60,Male,Win
+1229,Investment Management,US,P,A,41-50,Male,Win
+1231,Internet,US,P,B,18-30,Male,Win
+1232,Insurance,DE,P,C,18-30,Male,Win
+1233,Consumer Goods,DE,P,B,18-30,Male,Win
+1234,Venture Capital,DE,P,C,18-30,Male,Win
+1236,Venture Capital,US,S,B,31-40,Male,Win
+1237,Investment Management,DE,P,A,31-40,Male,Win
+1238,Internet,DE,P,B,18-30,Male,Win
+1240,Marketing & Advertising,ES,P,B,41-50,Male,Win
+1241,Information Technology & Services,DE,O,C,31-40,Male,Win
+1242,Marketing & Advertising,DE,O,A,31-40,Male,Win
+1243,Financial Services,DE,P,D,31-40,Male,Win
+1244,Computer Software,DE,P,B,31-40,Male,Win
+1247,Internet,DE,P,C,18-30,Male,Win
+1249,Food & Beverages,DE,P,B,18-30,Male,Win
+1251,Renewables & Environment,US,N,B,31-40,Male,Win
+1252,Internet,DE,P,C,18-30,Female,Win
+1253,Events Services,US,P,B,18-30,Male,Win
+1255,Internet,US,C,H,41-50,Male,Win
+1256,Computer Games,DE,P,B,18-30,Male,Win
+1257,Information Technology & Services,DE,P,B,41-50,Male,Win
+1259,Information Technology & Services,DE,P,A,41-50,Male,Win
+1260,Computer Games,GR,P,B,41-50,Male,Loss
+1261,Real Estate,DE,P,B,31-40,Male,Win
+1262,Marketing & Advertising,US,O,A,18-30,Female,Win
+1263,Internet,US,P,C,18-30,Male,Win
+1266,Internet,US,P,B,31-40,Male,Win
+1268,International Affairs,US,N,A,18-30,Male,Loss
+1269,Internet,US,P,B,31-40,Male,Win
+1270,Management Consulting,US,P,B,41-50,Male,Win
+1271,Program Development,PT,P,A,18-30,Male,Loss
+1272,Education Management,US,D,G,41-50,Female,Loss
+1273,Higher Education,DE,N,C,31-40,Male,Win
+1275,Restaurants,US,P,H,18-30,Female,Win
+1276,Law Practice,US,S,B,41-50,Male,Win
+1277,Internet,US,S,B,31-40,Male,Win
+1279,Market Research,GB,C,H,18-30,Male,Loss
+1280,Leisure & Travel,PT,S,C,31-40,Male,Loss
+1281,Investment Management,KW,C,C,41-50,Male,Loss
+1282,Program Development,DE,P,A,18-30,Male,Win
+1286,Automotive,DE,C,H,41-50,Male,Win
+1287,Information Technology & Services,MT,P,C,18-30,Male,Win
+1288,Management Consulting,DE,S,A,31-40,Female,Win
+1289,Venture Capital,US,S,C,18-30,Male,Win
+1291,Information Technology & Services,FR,C,H,18-30,Female,Win
+1293,Management Consulting,PT,P,B,18-30,Male,Win
+1294,Information Technology & Services,US,P,E,51-60,Male,Win
+1295,Media Production,US,P,B,41-50,Male,Win
+1296,Research,US,D,H,31-40,Male,Loss
+1298,Medical Device,US,P,B,31-40,Male,Win
+1299,Tobacco,US,C,H,18-30,Male,Loss
+1302,Higher Education,US,P,B,18-30,Female,Win
+1304,Management Consulting,US,P,A,41-50,Male,Win
+1305,Marketing & Advertising,PT,P,B,18-30,Male,Win
+1308,Information Technology & Services,US,C,H,31-40,Male,Win
+1309,Higher Education,DE,N,C,31-40,Male,Win
+1310,Marketing & Advertising,US,C,H,18-30,Male,Win
+1311,Venture Capital,US,S,B,18-30,Male,Win
+1313,Entertainment,US,P,D,31-40,Male,Win
+1314,Internet,US,C,H,51-60,Male,Win
+1315,Financial Services,US,P,A,31-40,Male,Win
+1318,Investment Management,CA,P,A,31-40,Male,Win
+1319,Consumer Goods,DE,P,B,18-30,Male,Win
+1320,Marketing & Advertising,US,P,C,51-60,Male,Win
+1321,Marketing & Advertising,US,C,C,31-40,Male,Win
+1323,Education Management,US,C,B,41-50,Male,Win
+1324,Internet,US,C,D,18-30,Female,Win
+1325,Internet,US,D,A,18-30,Male,Win
+1326,Education Management,US,D,B,31-40,Male,Win
+1328,Financial Services,US,P,F,18-30,Male,Win
+1331,Food & Beverages,US,P,D,41-50,Male,Win
+1333,Management Consulting,BR,P,C,31-40,Male,Win
+1334,Information Technology & Services,FR,C,H,31-40,Male,Win
+1335,Information Technology & Services,DE,P,B,18-30,Male,Win
+1336,Financial Services,US,P,C,41-50,Male,Win
+1337,Renewables & Environment,US,P,B,51-60,Male,Win
+1338,Computer Software,US,P,A,18-30,Male,Win
+1339,Information Technology & Services,DE,P,A,41-50,Female,Win
+1343,Computer Software,US,P,B,41-50,Male,Win
+1344,Information Technology & Services,DE,P,A,31-40,Male,Win
+1345,Oil & Energy,US,C,H,18-30,Male,Win
+1346,Venture Capital,US,P,B,31-40,Male,Win
+1347,Computer Games,GR,P,B,41-50,Male,Loss
+1348,Investment Management,DE,P,C,31-40,Male,Win
+1349,Financial Services,DE,P,C,18-30,Male,Win
+1350,Higher Education,DE,N,C,31-40,Male,Win
+1351,Computer Games,US,P,F,18-30,Male,Win
+1353,Venture Capital,US,P,A,18-30,Male,Win
+1354,Computer Software,US,P,F,31-40,Male,Win
+1355,Marketing & Advertising,US,P,C,51-60,Male,Win
+1357,Venture Capital,US,C,A,31-40,Male,Win
+1358,Higher Education,US,D,A,18-30,Female,Win
+1359,Computer Software,US,C,G,31-40,Male,Win
+1360,Food & Beverages,DE,P,D,41-50,Male,Win
+1362,Financial Services,DE,P,C,31-40,Male,Win
+1365,Management Consulting,ES,P,C,31-40,Male,Win
+1366,Internet,US,P,C,18-30,Male,Win
+1367,Automotive,DE,P,C,18-30,Female,Win
+1369,Investment Management,DE,P,C,31-40,Male,Win
+1372,Human Resources,US,C,H,31-40,Female,Loss
+1373,Information Technology & Services,AT,P,B,41-50,Male,Win
+1375,Venture Capital,US,P,A,31-40,Male,Win
+1376,Insurance,DE,C,H,31-40,Male,Win
+1377,Information Technology & Services,US,S,C,18-30,Female,Win
+1378,Museums & Institutions,US,N,E,31-40,Male,Loss
+1379,Information Technology & Services,DE,P,A,31-40,Male,Win
+1380,Internet,US,C,H,31-40,Female,Win
+1381,Luxury Goods & Jewelry,IT,P,A,18-30,Male,Loss
+1383,Financial Services,US,C,H,41-50,Male,Win
+1386,Computer Software,DE,C,F,41-50,Male,Win
+1388,Computer Software,DE,P,B,18-30,Male,Win
+1390,Internet,US,P,F,31-40,Male,Win
+1392,Insurance,DE,C,H,41-50,Male,Win
+1393,Warehousing,US,P,E,18-30,Male,Loss
+1394,Computer Software,US,P,H,41-50,Male,Win
+1395,Professional Training,US,P,B,18-30,Female,Win
+1396,Management Consulting,DE,S,H,18-30,Male,Win
+1397,Information Technology & Services,CH,C,H,31-40,Male,Win
+1399,Think Tanks,US,P,A,31-40,Male,Win
+1402,Market Research,US,P,A,18-30,Male,Win
+1405,Automotive,DE,P,C,18-30,Male,Win
+1407,Internet,NL,P,C,18-30,Male,Win
+1408,Marketing & Advertising,US,P,B,31-40,Male,Win
+1409,Investment Banking/Venture,DE,P,A,18-30,Male,Win
+1410,Telecommunications,CN,P,H,41-50,Male,Loss
+1411,Venture Capital,US,S,A,18-30,Female,Win
+1412,Financial Services,SE,P,F,41-50,Male,Win
+1413,Higher Education,DE,N,C,31-40,Male,Win
+1414,Computer Software,GB,P,B,31-40,Male,Win
+1416,Civic & Social Organization,US,N,A,31-40,Male,Loss
+1418,Gambling & Casinos,US,P,E,18-30,Male,Loss
+1421,Computer Software,DE,C,H,31-40,Male,Win
+1422,Information Technology & Services,AT,P,A,18-30,Male,Win
+1423,Internet,US,P,B,41-50,Male,Win
+1426,Computer Software,CH,P,C,41-50,Male,Win
+1428,Marketing & Advertising,PT,S,A,31-40,Male,Win
+1429,Computer Software,US,P,A,18-30,Male,Win
+1430,Media Production,US,O,A,18-30,Male,Loss
+1432,Hospitality,DE,P,B,41-50,Male,Win
+1433,Information Technology & Services,NL,P,B,31-40,Male,Win
+1435,Food Production,PK,P,F,18-30,Male,Loss
+1436,Oil & Energy,US,C,H,18-30,Male,Win
+1437,Marketing & Advertising,ES,O,B,31-40,Male,Win
+1438,Electrical & Electronic Manufacturing,SG,C,H,51-60,Male,Loss
+1440,Internet,DE,P,A,31-40,Male,Win
+1441,Computer Software,US,P,C,31-40,Male,Win
+1442,Oil & Energy,US,C,H,41-50,Male,Win
+1443,Internet,DE,O,A,41-50,Male,Win
+1444,Online Publishing,US,P,A,31-40,Male,Win
+1445,Internet,DE,P,B,18-30,Male,Win
+1447,Oil & Energy,US,C,H,31-40,Female,Win
+1449,Information Technology & Services,US,P,D,18-30,Female,Win
+1450,Consumer Electronics,TW,C,G,31-40,Male,Loss
+1451,Computer Networking,US,P,A,31-40,Male,Win
+1454,Airlines/Aviation,LT,P,E,31-40,Male,Loss
+1455,Financial Services,GB,P,B,31-40,Male,Win
+1457,Real Estate,US,P,E,31-40,Male,Win
+1458,Information Technology & Services,US,P,A,18-30,Male,Win
+1460,Hospital & Health Care,DE,P,C,31-40,Male,Win
+1461,Computer Software,DE,P,A,18-30,Male,Win
+1462,Publishing,US,P,D,31-40,Male,Loss
+1463,Venture Capital,US,P,A,31-40,Male,Win
+1465,Hospital & Health Care,US,C,C,31-40,Male,Win
+1467,Computer Software,SE,P,A,18-30,Female,Win
+1468,Computer Software,US,P,A,18-30,Male,Win
+1469,Information Technology & Services,DE,P,B,18-30,Male,Win
+1470,Marketing & Advertising,US,P,C,51-60,Male,Win
+1471,Marketing & Advertising,BR,P,C,41-50,Male,Win
+1472,Computer Games,US,P,A,41-50,Male,Win
+1473,Entertainment,DE,P,B,18-30,Male,Win
+1474,Information Technology & Services,DE,P,A,18-30,Male,Win
+1477,Computer Games,US,P,F,31-40,Male,Win
+1479,Computer Software,DE,P,A,31-40,Male,Win
+1480,Internet,DE,P,D,18-30,Male,Win
+1482,Retail,DE,S,A,18-30,Female,Win
+1484,Marketing & Advertising,ZA,P,A,18-30,Male,Win
+1485,Internet,DE,P,A,31-40,Male,Win
+1486,Higher Education,DE,D,B,31-40,Female,Win
+1487,Marketing & Advertising,US,P,B,31-40,Male,Win
+1488,Automotive,FR,C,H,18-30,Male,Win
+1489,Translation & Localization,DE,C,C,18-30,Male,Win
+1490,Hospitality,IE,P,A,41-50,Male,Loss
+1491,Real Estate,US,P,C,31-40,Male,Win
+1492,Information Technology & Services,CH,P,A,31-40,Male,Win
+1494,Music,US,P,F,31-40,Male,Loss
+1495,Computer & Network Security,US,P,B,31-40,Male,Win
+1499,Computer Software,US,P,A,18-30,Male,Win
+1500,Online Publishing,DE,C,C,41-50,Male,Win
+1501,Internet,DE,P,A,31-40,Male,Win
+1502,Internet,BR,P,B,31-40,Male,Win
+1503,Design,SE,P,B,41-50,Male,Win
+1504,Nonprofit Organization Management,US,N,C,18-30,Male,Win
+1505,"Health, Wellness & Fitness",DE,P,A,18-30,Male,Win
+1506,Writing & Editing,US,E,A,31-40,Male,Loss
+1507,E-learning,US,P,B,41-50,Male,Win
+1508,Financial Services,US,S,D,18-30,Male,Win
+1509,Marketing & Advertising,US,P,A,18-30,Male,Win
+1512,Venture Capital,US,P,C,31-40,Male,Win
+1513,Computer Software,US,P,C,31-40,Male,Win
+1514,Internet,FR,S,A,31-40,Male,Win
+1516,Venture Capital,DE,P,B,18-30,Male,Win
+1517,Information Technology & Services,IE,C,A,41-50,Male,Win
+1518,Information Technology & Services,DE,P,B,31-40,Male,Win
+1521,Information Technology & Services,FR,P,B,31-40,Male,Win
+1523,Financial Services,GB,P,A,41-50,Male,Win
+1524,Venture Capital,DE,P,A,18-30,Male,Win
+1525,Information Technology & Services,FR,P,A,31-40,Male,Win
+1526,Financial Services,US,P,A,18-30,Male,Win
+1527,Financial Services,BE,P,B,31-40,Male,Win
+1528,Information Technology & Services,DE,E,A,18-30,Male,Win
+1529,Venture Capital,DE,P,B,18-30,Female,Win
+1531,Venture Capital,GB,P,B,31-40,Male,Win
+1532,Internet,LV,S,B,18-30,Female,Win
+1533,Computer Software,FR,P,B,31-40,Male,Win
+1534,Venture Capital,DE,P,B,31-40,Male,Win
+1535,Information Technology & Services,DE,P,A,18-30,Male,Win
+1536,Information Technology & Services,FR,P,A,31-40,Female,Win
+1537,Design,US,P,A,18-30,Male,Win
+1538,Management Consulting,CA,P,B,18-30,Female,Win
+1539,Financial Services,GB,P,D,31-40,Male,Win
+1540,Venture Capital,CH,S,A,41-50,Male,Win
+1541,Information Technology & Services,FR,P,A,31-40,Female,Win
+1542,Media Production,FR,E,A,31-40,Male,Loss
+1543,Computer Software,US,P,C,18-30,Female,Win
+1545,Information Technology & Services,DE,P,B,31-40,Male,Win
+1546,Computer Software,FR,P,A,41-50,Male,Win
+1547,Media Production,FR,E,A,31-40,Male,Loss
+1549,Information Technology & Services,CH,C,A,41-50,Male,Win
+1550,Venture Capital,PT,P,A,31-40,Male,Win
+1551,Information Technology & Services,DE,P,B,18-30,Male,Win
+1552,Venture Capital,DE,S,B,31-40,Male,Win
+1554,Internet,DE,P,B,18-30,Male,Win
+1555,Internet,FR,P,B,18-30,Male,Win
+1556,Venture Capital,US,P,B,18-30,Male,Win
+1558,Venture Capital,DE,S,B,31-40,Male,Win
+1559,Information Technology & Services,CH,P,B,31-40,Male,Win
+1560,Computer Games,FI,O,B,31-40,Male,Loss
+1561,Computer Software,NL,P,A,41-50,Male,Win
+1562,Wireless,PT,P,C,18-30,Male,Loss
+1564,Investment Banking/Venture,DE,P,B,18-30,Female,Win
+1565,Internet,US,P,B,18-30,Male,Win
+1567,Marketing & Advertising,NL,P,A,18-30,Male,Win
+1568,Information Technology & Services,NL,P,A,18-30,Male,Win
+1569,Real Estate,CH,C,B,51-60,Male,Win
+1570,Information Technology & Services,CA,P,A,41-50,Male,Win
+1572,Financial Services,CH,P,B,31-40,Male,Win
+1573,Information Technology & Services,NL,P,C,41-50,Male,Win
+1575,Information Technology & Services,US,P,F,31-40,Male,Win
+1576,Entertainment,US,P,B,31-40,Female,Win
+1577,Internet,US,C,H,31-40,Male,Win
+1580,Telecommunications,BD,P,F,41-50,Male,Loss
+1581,Venture Capital,DE,S,A,31-40,Male,Win
+1582,Computer Software,FR,P,A,31-40,Male,Win
+1583,Marketing & Advertising,DE,C,A,18-30,Female,Win
+1584,Marketing & Advertising,FR,S,A,41-50,Male,Win
+1585,Venture Capital,DE,P,A,31-40,Male,Win
+1586,Design,PT,S,A,31-40,Male,Loss
+1587,Information Technology & Services,FI,C,B,31-40,Male,Win
+1589,Information Technology & Services,DE,P,C,18-30,Male,Win
+1590,Consumer Goods,DE,S,C,31-40,Male,Win
+1592,Computer Software,CH,P,B,31-40,Male,Win
+1597,Computer Software,IT,O,A,18-30,Male,Loss
+1598,Banking,CH,C,D,31-40,Male,Loss
+1599,Computer & Network Security,DE,P,B,18-30,Female,Win
+1600,Information Technology & Services,IE,P,A,18-30,Male,Win
+1601,Computer Software,MX,P,B,18-30,Male,Win
+1602,Internet,DE,P,D,41-50,Male,Win
+1603,Internet,IT,P,B,18-30,Male,Win
+1606,Internet,CH,P,B,18-30,Male,Win
+1607,Information Technology & Services,DE,P,B,18-30,Male,Win
+1608,Venture Capital,US,S,A,31-40,Male,Win
+1609,Real Estate,LU,P,A,31-40,Male,Loss
+1610,Venture Capital,CH,S,A,41-50,Male,Win
+1611,Computer Games,CH,P,A,18-30,Male,Win
+1612,Media Production,US,C,H,41-50,Male,Win
+1614,Financial Services,CH,N,A,18-30,Male,Win
+1615,Computer Software,US,P,D,51-60,Male,Win
+1616,Building Materials,PT,S,A,31-40,Male,Loss
+1617,Internet,GB,P,A,18-30,Male,Win
+1618,Information Technology & Services,US,P,C,18-30,Male,Win
+1619,Staffing & Recruiting,DE,P,C,18-30,Male,Win
+1620,Computer Software,DE,P,A,51-60,Male,Win
+1621,Information Technology & Services,DE,P,C,41-50,Male,Win
+1623,Investment Management,CH,P,D,18-30,Female,Loss
+1624,Information Technology & Services,DK,P,E,31-40,Male,Loss
+1625,Internet,CA,P,A,18-30,Male,Win
+1626,Internet,DE,P,B,31-40,Male,Win
+1627,Computer Software,CH,P,C,31-40,Male,Win
+1628,Management Consulting,CH,P,A,31-40,Male,Win
+1630,Internet,GB,N,A,31-40,Male,Win
+1632,Financial Services,US,P,B,18-30,Male,Win
+1634,Venture Capital,DE,S,A,41-50,Male,Win
+1635,Investment Management,CH,P,A,31-40,Male,Win
+1636,Computer Software,SE,P,B,18-30,Female,Win
+1639,Banking,CH,C,B,18-30,Male,Win
+1641,Real Estate,GB,P,A,18-30,Female,Win
+1642,Media Production,DE,P,E,31-40,Male,Loss
+1643,Venture Capital,CH,P,B,18-30,Male,Win
+1644,Computer Hardware,IT,P,A,31-40,Male,Loss
+1646,Venture Capital,US,S,A,31-40,Male,Win
+1647,Financial Services,US,P,A,31-40,Male,Win
+1648,Information Technology & Services,DE,C,B,31-40,Male,Win
+1650,Internet,US,P,B,31-40,Male,Win
+1651,Staffing & Recruiting,DE,P,C,31-40,Male,Win
+1652,Management Consulting,ES,P,C,31-40,Male,Win
+1653,Internet,US,P,C,31-40,Male,Win
+1654,Venture Capital,DE,P,A,41-50,Male,Win
+1655,Insurance,GB,C,B,31-40,Male,Win
+1656,Internet,US,P,E,31-40,Male,Win
+1657,Information Technology & Services,DE,P,C,31-40,Male,Win
+1659,Financial Services,US,P,D,18-30,Male,Win
+1661,Management Consulting,CH,C,B,41-50,Male,Win
+1662,Internet,US,P,E,31-40,Male,Win
+1663,Marketing & Advertising,DE,S,C,31-40,Male,Win
+1664,Financial Services,NL,C,B,41-50,Male,Win
+1665,Research,CH,G,E,41-50,Male,Loss
+1668,Information Technology & Services,BE,D,A,41-50,Male,Loss
+1669,Nonprofit Organization Management,NL,N,A,18-30,Male,Loss
+1670,Venture Capital,US,N,B,31-40,Male,Win
+1671,Information Technology & Services,GB,P,A,18-30,Male,Win
+1672,Information Technology & Services,DE,C,C,41-50,Male,Win
+1673,Computer Software,US,P,C,31-40,Male,Win
+1674,Venture Capital,US,S,C,31-40,Male,Win
+1675,Financial Services,CH,N,A,18-30,Female,Win
+1676,Computer Software,FR,S,B,31-40,Male,Win
+1678,Transportation/Trucking/Railroad,US,P,B,31-40,Male,Win
+1680,Renewables & Environment,DE,S,D,18-30,Male,Loss
+1681,Information Technology & Services,FI,P,A,31-40,Male,Win
+1682,Marketing & Advertising,DE,O,B,31-40,Male,Win
+1684,Management Consulting,ES,P,C,31-40,Male,Win
+1685,Online Publishing,US,P,C,31-40,Male,Win
+1687,Investment Management,FI,P,A,18-30,Female,Loss
+1688,Internet,US,P,C,31-40,Male,Win
+1689,Apparel & Fashion,DE,E,C,31-40,Male,Loss
+1692,Retail,NO,P,A,31-40,Male,Loss
+1693,Marketing & Advertising,GB,C,G,31-40,Female,Loss
+1694,Media Production,CN,P,D,51-60,Male,Loss
+1695,Computer Software,US,P,C,41-50,Male,Win
+1697,Management Consulting,DE,O,C,31-40,Male,Win
+1698,Financial Services,BR,O,A,31-40,Male,Loss
+1700,Computer Software,CH,P,C,18-30,Male,Win
+1701,Oil & Energy,NO,C,A,41-50,Male,Loss
+1702,Accounting,IE,S,F,18-30,Female,Loss
+1703,Information Technology & Services,BE,P,A,18-30,Male,Win
+1704,Computer Software,DE,P,C,31-40,Male,Win
+1705,Information Technology & Services,NL,O,A,41-50,Male,Win
+1707,Computer Software,US,P,C,18-30,Female,Win
+1708,Market Research,US,S,A,31-40,Female,Loss
+1709,Internet,DE,P,C,18-30,Male,Win
+1710,Publishing,NL,C,B,31-40,Male,Win
+1711,Internet,US,P,C,18-30,Female,Win
+1712,Information Technology & Services,NL,P,A,31-40,Male,Win
+1713,Venture Capital,DE,S,B,31-40,Male,Win
+1714,Computer Games,DE,P,B,18-30,Male,Win
+1715,Publishing,NL,C,B,51-60,Male,Win
+1716,Internet,FR,P,B,31-40,Male,Win
+1717,Computer Software,US,P,D,31-40,Male,Win
+1718,Computer Software,BE,P,A,31-40,Male,Win
+1720,Information Technology & Services,DE,P,C,41-50,Male,Win
+1722,Information Technology & Services,GB,P,B,31-40,Male,Win
+1723,Information Technology & Services,DE,E,A,31-40,Male,Win
+1724,Internet,GB,P,C,18-30,Female,Win
+1726,Computer & Network Security,FR,O,B,18-30,Male,Loss
+1727,Information Technology & Services,DE,E,B,31-40,Male,Win
+1728,Food & Beverages,DE,C,B,18-30,Male,Win
+1729,Information Technology & Services,NL,P,A,31-40,Male,Win
+1731,Venture Capital,DE,P,C,31-40,Male,Win
+1732,Financial Services,AT,C,B,31-40,Male,Win
+1733,Information Technology & Services,NL,P,B,31-40,Male,Win
+1735,Marketing & Advertising,CH,C,C,31-40,Male,Win
+1737,Internet,DE,P,A,18-30,Male,Win
+1740,Venture Capital,DE,S,B,31-40,Male,Win
+1741,Internet,US,P,B,18-30,Male,Win
+1743,Information Technology & Services,FR,S,C,31-40,Male,Win
+1744,Higher Education,DE,N,C,31-40,Male,Win
+1745,Management Consulting,DE,P,A,18-30,Male,Win
+1747,Telecommunications,SA,P,E,18-30,Male,Loss
+1756,Marketing & Advertising,DE,P,B,18-30,Male,Win
+1757,Apparel & Fashion,DE,P,A,31-40,Male,Win
+1758,Internet,DE,P,D,31-40,Male,Win
+1760,Automotive,DE,C,H,41-50,Male,Win

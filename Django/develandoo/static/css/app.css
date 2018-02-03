@@ -1,0 +1,7 @@
+body {
+  background-image: url(../img/wood.png);
+  color: white;
+}
+.navbar-brand {
+  font-family: 'Peralta', cursive;
+}

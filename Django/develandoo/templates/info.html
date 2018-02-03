@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+<table class="table table-sm table-inverse table-striped">
+  <thead class="thead">
+    <tr>
+      <th>Files</th>
+      <th>Uploaded at</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for obj in documents %}
+      <tr>
+        <td><a href="{{ obj.user_file.url }}">{{ obj.name }}</a></td>
+        <td><small>{{ obj.uploaded_at }}</small></a></td>
+        <td>
+          {% if obj.logreg_result %}
+            <a href="{{ obj.logreg_result.url }}">Logistic Regression</a>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}
